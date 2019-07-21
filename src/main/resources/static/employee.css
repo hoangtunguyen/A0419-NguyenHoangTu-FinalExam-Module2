@@ -1,0 +1,27 @@
+.table-employee{
+    width: 100%;
+    min-height:400px;
+}
+.left-form{
+    width: 50%;
+    float: left;
+    padding-right: 15px;
+}
+.right-form{
+    width: 50%;
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.active-pink-2 input[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+.active-pink input[type=text] {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+.f-z-1{
+    font-size: 1.2em;
+}
